@@ -45,7 +45,7 @@ var books_list = [
     author: "John Steinbeck",
     image: "https://s3-us-west-2.amazonaws.com/sandboxapi/of_mice_and_men.jpg",
     releaseDate: "Unknown 1937"
-  },
+  },//
   {
     title: "Romeo and Juliet",
     author: "William Shakespeare",
